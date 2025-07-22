@@ -33,3 +33,24 @@ body{
     padding: 20px;
     border-radius: 40px;
 }
+
+@media (max-width: 768px){
+    .hero h1{font-size: size 40px;}
+}
+
+@media (max-width:768px) {
+    body{background-color: rgb(211, 250, 250);};
+}
+
+.hero-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.hero img{
+    
+}
+
